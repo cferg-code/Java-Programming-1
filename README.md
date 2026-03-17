@@ -1,0 +1,1 @@
+A Java-based device inventory and monitoring system that tracks servers and PCs using object-oriented design. The application supports adding, listing, and searching devices, along with logging system activity to a file. This project demonstrates inheritance, encapsulation, collections, and file I/O in a real-world infrastructure-style system.
